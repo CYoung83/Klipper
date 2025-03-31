@@ -16,7 +16,7 @@ CRTouch
 
 # Ender 7:
 
-Stock mainboard and stepper motor drivers
+Stock mainboard and stepper motor drivers (LeadShine DM542)
 
 CRTouch
 
