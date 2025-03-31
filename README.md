@@ -3,7 +3,7 @@ These are my personal Klipper files for my modified Ender 3 Pro and my modified 
 
 
 
-## Ender 3 Pro:
+# Ender 3 Pro:
 
 Creality 32-bit 4.2.7 mainboard
 
@@ -14,7 +14,7 @@ CRTouch
 
 
 
-## Ender 7:
+# Ender 7:
 
 Stock mainboard and stepper motor drivers
 
